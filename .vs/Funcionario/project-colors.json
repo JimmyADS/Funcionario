@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c075414-42d4-44f3-9120-11eaf94c02fc": {
+      "ProjectGuid": "2c075414-42d4-44f3-9120-11eaf94c02fc",
+      "DisplayName": "Funcionario",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

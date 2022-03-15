@@ -1,0 +1,15 @@
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.csproj.AssemblyReference.cache
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfoInputs.cache
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfo.cs
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Projects\Curso\Produto\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.exe
+C:\Projects\Curso\Produto\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.deps.json
+C:\Projects\Curso\Produto\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.runtimeconfig.json
+C:\Projects\Curso\Produto\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.dll
+C:\Projects\Curso\Produto\Funcionario\Funcionario\bin\Debug\net6.0\ref\Funcionario.dll
+C:\Projects\Curso\Produto\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.pdb
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.dll
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\ref\Funcionario.dll
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.pdb
+C:\Projects\Curso\Produto\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.genruntimeconfig.cache
